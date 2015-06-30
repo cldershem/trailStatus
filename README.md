@@ -57,6 +57,7 @@ $ python manage.py run_on_network
 
 
 ## Basic outline of project
+```sh
 .
 ├── app
 │   ├── api
@@ -125,3 +126,4 @@ touch app/static/css/style.less
 touch app/templates/errors/404.html
 touch app/templates/errors/500.html
 touch app/templates/main/index.html
+```
