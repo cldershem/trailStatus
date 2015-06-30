@@ -2,6 +2,9 @@
 A boilerplate flask application bootstrappy thinger.  Clone this repo and
 you've got a base flask app work on.
 
+There are several `$SOME_REPO` or `$SOME_APP` placeholders throughout.  I
+suggest replacing them before you forget.
+
 ## Colophon
 - Server side: Python, Flask
 - DB: SQL, SQLite, SQL-Alchemy
