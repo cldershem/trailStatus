@@ -1,6 +1,5 @@
-# Flask-bootstrap-boilerplate
-A boilerplate flask application bootstrappy thinger.  Clone this repo and
-you've got a base flask app work on.
+# Trail Status
+The application you've always wanted for Indy Greenways.
 
 There are several `$SOME_REPO` or `$SOME_APP` placeholders throughout.  I
 suggest replacing them before you forget.
